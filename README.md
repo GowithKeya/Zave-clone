@@ -1,6 +1,6 @@
 # Zave-clone
 Zave Website Clone
-<a href="https://gowithkeya.github.io/Zave-clone/" target="blank"> Click to Preview</a>
+<a href="https://gowithkeya.github.io/Zave-clone/" target="blank">Preview</a>
 
 <img width="1904" height="878" alt="image" src="https://github.com/user-attachments/assets/dd1d1544-cc78-4ef7-8675-3ef316086a81" />
 <img width="1898" height="889" alt="image" src="https://github.com/user-attachments/assets/30c90e30-38e2-4dc1-a4f1-7f9269726e33" />
